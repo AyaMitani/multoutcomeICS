@@ -21,4 +21,4 @@ R code for creating split density plots for simulation results in
 Referenced from: https://stackoverflow.com/questions/35717353/split-violin-plot-with-ggplot2
 
 ## create_plot_for_type1error_mvWald.R
-create_plot_for_type1error_mvWald
+R code for creating Type I error plots for simulation results
