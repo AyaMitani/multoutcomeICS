@@ -17,7 +17,7 @@ R code for running simulation that includes
 R code for creating tables for simulation results
 
 ## create_splitdensity_plot.R
-R code for creating split density plots for simulation results in
+R code for creating split density plots for simulation results  
 Referenced from: https://stackoverflow.com/questions/35717353/split-violin-plot-with-ggplot2
 
 ## create_plot_for_type1error_mvWald.R
